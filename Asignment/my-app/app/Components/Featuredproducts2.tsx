@@ -9,7 +9,7 @@ const Featuredproducts2 = (props: any) => {
       <div className="w-[1356px] h-[509px] flex">
         <div className="w-[666px] flex-row place-items-end ">
           <div className="flex place-items-center gap-2 mx-8">
-            <h1 className="text-[15px] font-semibold">Shop Men's</h1>
+            <h1 className="text-[15px] font-semibold">Shop Men&apos;s</h1>
             <button className="bg-[#F5F5F5] text-xs rounded-full w-8 h-8 place-items-center">
               <ChevronLeft />
             </button>
@@ -25,7 +25,7 @@ const Featuredproducts2 = (props: any) => {
                 <h3 className="text-[15px] font-semibold">{props.rs}</h3>
               </div>
               <p className="text-[#757575] w-[200px] text-[16px]">
-                Men's Short-Sleeve Running Top
+                Men&apos;s Short-Sleeve Running Top
               </p>
             </div>
             <div className="h-[393px] w-[300px] space-y-1">
@@ -35,14 +35,14 @@ const Featuredproducts2 = (props: any) => {
                 <h3 className="text-[15px] font-semibold">{props.rs2}</h3>
               </div>
               <p className="text-[#757575] w-[200px] text-[16px]">
-                Men's 18cm (approx.) 2-in-1 Versatile Shorts{" "}
+                Men&apos;s 18cm (approx.) 2-in-1 Versatile Shorts{" "}
               </p>
             </div>
           </div>
         </div>
         <div className="w-[666px] flex-row place-items-end ">
           <div className="flex place-items-center gap-2 mx-8">
-            <h1 className="text-[15px] font-semibold">Shop Women's</h1>
+            <h1 className="text-[15px] font-semibold">Shop Women&apos;s</h1>
             <button className="bg-[#F5F5F5] text-xs rounded-full w-8 h-8 place-items-center">
               <ChevronLeft />
             </button>
@@ -58,7 +58,7 @@ const Featuredproducts2 = (props: any) => {
                 <h3 className="text-[15px] font-semibold">{props.rs3}</h3>
               </div>
               <p className="text-[#757575] w-[200px] text-[16px]">
-              Women's Long-Sleeve Running Top
+              Women&apos;s Long-Sleeve Running Top
               </p>
             </div>
             <div className="h-[393px] w-[300px] space-y-1">
@@ -68,7 +68,7 @@ const Featuredproducts2 = (props: any) => {
                 <h3 className="text-[15px] font-semibold">{props.rs4}</h3>
               </div>
               <p className="text-[#757575] w-[250px] text-[16px]">
-              Women's Mid-Rise 7/8 Running Leggings with Pockets
+              Women&apos;s Mid-Rise 7/8 Running Leggings with Pockets
               </p>
             </div>
           </div>

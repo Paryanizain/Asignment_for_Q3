@@ -10,11 +10,11 @@ const Related = () => {
             <button className="border rounded-xl text-xs p-[8px] px-[15px]">Best Shoes</button>
             <button className="border rounded-xl text-xs p-[8px] px-[15px]">New Basketball Shoes</button>
             <button className="border rounded-xl text-xs p-[8px] px-[15px]">New Football Shoes</button>
-            <button className="border rounded-xl text-xs p-[8px] px-[15px]">New Men's Shoes</button>
+            <button className="border rounded-xl text-xs p-[8px] px-[15px]">New Men&apos;s Shoes</button>
             <button className="border rounded-xl text-xs p-[8px] px-[15px]">New Running Shoes</button>
-            <button className="border rounded-xl text-xs p-[8px] px-[15px]">Best Men's Shoes</button>
+            <button className="border rounded-xl text-xs p-[8px] px-[15px]">Best Men&apos;s Shoes</button>
             <button className="border rounded-xl text-xs p-[8px] px-[15px]">New Jordan Shoes</button>
-            <button className="border rounded-xl text-xs p-[8px] px-[15px]">Best Women's Shoes</button>
+            <button className="border rounded-xl text-xs p-[8px] px-[15px]">Best Women&apos;s Shoes</button>
             <button className="border rounded-xl text-xs p-[8px] px-[15px]">Best Training & Gym</button>
         </div>
          

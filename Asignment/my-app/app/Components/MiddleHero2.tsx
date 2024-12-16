@@ -3,7 +3,7 @@ const MiddleHero2 = () => {
   return (
     <div className="place-items-center">
       <div className="justify-self-center">
-        <h1 className="text-[23px] font-bold">Don't Miss</h1>
+        <h1 className="text-[23px] font-bold">Don&apos;t Miss</h1>
         <Image
           src="/Hero2.png"
           alt="intro"

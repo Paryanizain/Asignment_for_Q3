@@ -29,12 +29,12 @@ const List = () => {
         </ul>
       </div>
       <div>
-        <h1 className="font-semibold">Kids'</h1>
+        <h1 className="font-semibold">Kids&apos;</h1>
         <ul className="text-[#757575] pt-7 space-y-3">
           <li>Infant & Toddler Shoes</li>
-          <li>Kids' Shoes</li>
-          <li>Kids' Jordan Shoes</li>
-          <li>Kids' Basketball Shoes</li>
+          <li>Kids&apos; Shoes</li>
+          <li>Kids&apos; Jordan Shoes</li>
+          <li>Kids&apos; Basketball Shoes</li>
         </ul>
       </div>
     </div>
